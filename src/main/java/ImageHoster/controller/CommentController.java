@@ -16,6 +16,7 @@ import javax.servlet.http.HttpSession;
 import java.util.Date;
 import java.util.List;
 
+//Command Controller
 @Controller
 public class CommentController {
 
